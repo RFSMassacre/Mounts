@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img height="250" src="Kitsune.png" width="250" alt=""/>
-</div>
+![](Kitsune.png)
 
 # Mounts
 This plugins requires the following to run since it's built with its functionality in mind:
