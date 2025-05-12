@@ -1,0 +1,6 @@
+prefix: "&dMounts &7&l|&r "
+
+no-mount-perm: "&cYou do not permission to use &e{mount} &cas a mount!"
+invalid-mount: "&f{mount} &cis invalid!"
+mounted: "&aYou have mounted &e{mount}&a!"
+dismounted: "&7You have dismounted &e{mount}&7."

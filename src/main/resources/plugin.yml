@@ -1,0 +1,10 @@
+name: Mounts
+version: '1.0-SNAPSHOT'
+main: com.github.rfsmassacre.mounts.Mounts
+api-version: '1.21'
+depend:
+  - HeavenLibrary
+  - MythicMobs
+commands:
+  mount:
+    usage: "/mount"
